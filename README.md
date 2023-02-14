@@ -13,5 +13,3 @@ Nolytics is 100% open-source and self-hosted, and you can setup the whole infras
 System communication is very easy to understand as each system component is bounded to a small group of responsibilities and everything can be perceived as a script. No virtual machines are needed, since the system is designed to run on the edge!
 
 ![nolytics system communication diagram](src/system_communication.drawio.svg)
-
-## Features
